@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Koustav Das
 - 👀 I’m interested in Web Devopolment and Machine Learning and AI 
-- 🌱 I’m currently learning application devolopment on Xcode.
+- 🌱 I’m currently learning application development on Xcode.
 - 📫 How to reach me - kdkdas8@gmail.com
 
 <!---
