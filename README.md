@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Koustav Das
-- 👀 I’m interested in Web Devopolment and Machine Learning and AI 
-- 🌱 I’m currently learning application development on Xcode.
+- 👀 I’m a Frontend Developer. 
+- 🌱 I’m currently learning MERN stack development.
 - 📫 How to reach me - kdkdas8@gmail.com
 
 <!---
