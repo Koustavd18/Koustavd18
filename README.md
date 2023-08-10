@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Koustav Das
 - 👀 I’m a Frontend Developer. 
-- 🌱 I’m currently learning MERN stack development.
+- 🌱 I’m currently learning NEXT JS.
 - 📫 How to reach me - kdkdas8@gmail.com
 
 <!---
