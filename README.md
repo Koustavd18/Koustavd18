@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 # Hello, I'm Koustav Das
 # 📫 How to reach me - kdkdas8@gmail.com
 
-[![](https://img.shields.io/badge/-@xiaoluoboding-%23181717?style=flat-square&logo=github)]([(https://github.com/Koustavd18)])
+[![](https://img.shields.io/badge/-@Koustavd18-%23181717?style=flat-square&logo=github)]([(https://github.com/Koustavd18)])
 
 
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
@@ -26,7 +26,6 @@ You can click the Preview link to take a look at your changes.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
-![Next](https://img.shields.io/badge/-Nuxt.js-%23282C34?style=flat-square&logo=nuxtdotjs)
 ![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
 
@@ -41,5 +40,4 @@ You can click the Preview link to take a look at your changes.
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
-![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff)
 
