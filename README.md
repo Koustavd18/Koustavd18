@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Koustav Das
 - 👀 I’m a Frontend Developer. 
-- 🌱 I’m currently learning NEXT JS and Express Js
+- 🌱 I’m currently learning Backend Development, NEXT JS and Express Js
 - 📫 How to reach me - kdkdas8@gmail.com
 
 <!---
