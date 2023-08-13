@@ -2,13 +2,8 @@
 Koustavd18/Koustavd18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1> Hello, I'm Koustav Das</h1>
-<style>
-  h1{
-  text-align: center; 
-  }
-  
-</style>
+<h1 align="center"> Hello, I'm Koustav Das</h1>
+
 # 📫 How to reach me - kdkdas8@gmail.com
 
 [![](https://img.shields.io/badge/-@Koustavd18-%23181717?style=flat-square&logo=github)]([(https://github.com/Koustavd18)])
