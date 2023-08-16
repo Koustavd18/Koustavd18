@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 [![](https://img.shields.io/badge/-@Koustavd18-%23181717?style=flat-square&logo=github)]([(https://github.com/Koustavd18)])
 
 
-𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
+𝑰 am a 𝑭ullStack 𝑫eveloper!
 
 :computer: Passionate Developer.
 
