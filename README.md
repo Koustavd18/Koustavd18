@@ -19,11 +19,11 @@ You can click the Preview link to take a look at your changes.
 
 <h2>𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻</h2>
 
-##React Native Mobile Development
+## React Native Mobile Development
 
-##Next JS
+## Next JS
 
-##Backend Development
+## Backend Development
 
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
