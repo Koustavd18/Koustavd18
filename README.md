@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 :writing_hand:
 
-<h2 align="center">𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻</h2>
+<h2 align="center" color='white'>𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻</h2>
 
 ## React Native Mobile Development
 
