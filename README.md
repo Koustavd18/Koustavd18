@@ -21,8 +21,6 @@ You can click the Preview link to take a look at your changes.
 
 ## Java & SpringBoot
 
-## iOS App Development with Swift
-
 ## Next JS
 
 ## Backend Development
