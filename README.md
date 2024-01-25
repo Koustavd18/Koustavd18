@@ -52,7 +52,7 @@ I'm a passionate and results-driven computer science graduate with a focus on fu
 <h1 align="center"> Github Stats </h1> 
 <img width="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Koustavd18&theme=tokyonight&background=DD272700" alt="Koustavd18" />
 
-<img width="48%" height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koustavd18&layout=compact&theme=tokyonight&background=DD272700" />
+<img width="40%" height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koustavd18&layout=compact&theme=tokyonight&background=DD272700" />
 
 <br/>
 <br/>
