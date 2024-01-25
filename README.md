@@ -13,17 +13,19 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">📫 How to reach me - kdkdas8@gmail.com</h2>
 </a>
 
+<div align="center"> 
 <a href="https://github.com/Koustavd18/" target="_blank">
-<img align="left" src="https://img.shields.io/badge/-@Koustavd18-%23181717?style=flat-square&logo=github" />
+<img src="https://img.shields.io/badge/-@Koustavd18-%23181717?style=flat-square&logo=github" />
 </a
 
 <a href="https://www.linkedin.com/in/koustavdas1612/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn--blue" />
+<img src="https://img.shields.io/badge/-KoustavDas-%23007ACC?style=flat-square&logo=linkedin" />
 </a>
+</div>
 
 <h2>🧑🏻‍💻 About Me</h2>
 I'm a passionate and results-driven computer science graduate with a focus on full-stack development, specializing in the MERN (MongoDB, Express.js, React, Node.js) stack. My journey in the world of technology has equipped me with the skills and knowledge needed to create robust and scalable web applications.
-
+</br>
 <h2>🚀 Expertise</h2>
 <h3>Frontend Development:</h3> Leveraging the power of React.js, I design and implement dynamic user interfaces that provide a seamless and engaging user experience.
 
@@ -50,26 +52,32 @@ I'm a passionate and results-driven computer science graduate with a focus on fu
 <br/>
 
 <h1 align="center"> Github Stats </h1> 
-<img width="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Koustavd18&theme=tokyonight&background=DD272700" alt="Koustavd18" />
+<div align="center">
+  
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Koustavd18&theme=tokyonight&background=DD272700" alt="Koustavd18" />
 
 <img width="40%" height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koustavd18&layout=compact&theme=tokyonight&background=DD272700" />
+
+</div>
 
 <br/>
 <br/>
 
 <h1 align="center">𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸</h2>
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+![C++](https://img.shields.io/badge/-C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![GO](https://img.shields.io/badge/-GO-%231572B6?style=flat-square&logo=GO)
-![Python](https://img.shields.io/badge/-python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![GO](https://img.shields.io/badge/-GO-%231d365d?style=flat-square&logo=GO)
+![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
 ![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
+
 
 ![Less](https://img.shields.io/badge/-Less-%231d365d?style=flat-square&logo=less&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
