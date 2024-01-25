@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
-  <h1 align="center" width="100%"> I'm Koustav </h1>
+  <h1 align="center" width="100%"> 🙋🏻‍♂️ I'm Koustav </h1>
 </p>
 
 <a href="mailto:kdkdkas8@gmail.com">
@@ -35,15 +35,15 @@ I'm a passionate and results-driven computer science graduate with a focus on fu
 
 <h3>Full Stack Proficiency:</h3> With a holistic understanding of both frontend and backend development, I create end-to-end solutions that meet the needs of modern web applications.
 
-<h1> ☕️ 𝘾𝙤𝙛𝙛𝙚𝙚 𝙡𝙤𝙫𝙚𝙧 </h1> :writing_hand:
+<h1> ☕️ 𝘾𝙤𝙛𝙛𝙚𝙚 𝙡𝙤𝙫𝙚𝙧 </h1> 
 
 
 
 </br>
 
-<h1 align="center">𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻</h2>
+<h1 align="center"> :writing_hand: 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻</h2>
 
-<h3>Java & SpringBoot</h3>
+<h3>Spring & SpringBoot</h3>
 
 <h3>Next JS</h3>
 
@@ -51,7 +51,7 @@ I'm a passionate and results-driven computer science graduate with a focus on fu
 
 <br/>
 
-<h1 align="center"> Github Stats </h1> 
+<h1 align="center"> 📊 Github Stats </h1> 
 <div align="center">
   
 <img width="50%" height="200rem" src="https://github-readme-streak-stats.herokuapp.com/?user=Koustavd18&theme=tokyonight&background=DD272700" alt="Koustavd18" />
@@ -63,7 +63,7 @@ I'm a passionate and results-driven computer science graduate with a focus on fu
 <br/>
 <br/>
 
-<h1 align="center">𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸</h2>
+<h1 align="center"> 💻 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸</h2>
 
 
 ![C++](https://img.shields.io/badge/-C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
