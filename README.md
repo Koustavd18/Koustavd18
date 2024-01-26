@@ -31,15 +31,6 @@ I'm a passionate and results-driven computer science graduate with a focus on fu
 
 <h3>Backend Development:</h3> Using Node.js and Express.js, I build efficient and scalable server-side applications, ensuring optimal performance and reliability.
 
-<h3>Database Management:</h3> Proficient in MongoDB, I handle data storage and retrieval, ensuring the integrity and security of the information within the applications.
-
-<h3>Full Stack Proficiency:</h3> With a holistic understanding of both frontend and backend development, I create end-to-end solutions that meet the needs of modern web applications.
-
-<h1> ☕️ 𝘾𝙤𝙛𝙛𝙚𝙚 𝙡𝙤𝙫𝙚𝙧 </h1> 
-
-
-
-</br>
 
 <h1 align="center"> :writing_hand: 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻</h2>
 
