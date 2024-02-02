@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 <a href="https://twitter.com/koustav016" target="_blank">
-<img src="https://img.sheilds.io/badge/-@KoustavDas-%23181717?style=flat-square&logo=github" />
+<img src="https://img.shields.io/badge/-@Koustavd18-%23181717?style=flat-square&logo=twitter" />
 </a>
 </div>
 
