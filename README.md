@@ -21,6 +21,10 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linkedin.com/in/koustavdas1612/" target="_blank">
 <img src="https://img.shields.io/badge/-KoustavDas-%23007ACC?style=flat-square&logo=linkedin" />
 </a>
+
+<a href="https://twitter.com/koustav016" target="_blank">
+<img src="https://img.sheilds.io/badge/-@KoustavDas-%23181717?style=flat-square&logo=github" />
+</a>
 </div>
 
 <h2>🧑🏻‍💻 About Me</h2>
