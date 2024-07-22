@@ -38,11 +38,9 @@ I'm a passionate and results-driven computer science graduate with a focus on fu
 
 <h1 align="center"> :writing_hand: 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻</h2>
 
-<h3>Spring & SpringBoot</h3>
-
-<h3>Next JS</h3>
-
+<h3>Rust</h3>
 <h3>GO Lang</h3>
+<h3>Next JS</h3>
 
 <br/>
 
@@ -60,28 +58,22 @@ I'm a passionate and results-driven computer science graduate with a focus on fu
 
 <h1 align="center"> 💻 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸</h2>
 
-
-![C++](https://img.shields.io/badge/-C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Java](https://img.shields.io/badge/-Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![GO](https://img.shields.io/badge/-GO-%231d365d?style=flat-square&logo=GO)
-![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
-![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
-![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
-![Less](https://img.shields.io/badge/-Less-%231d365d?style=flat-square&logo=less&logoColor=ffffff)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Stylus](https://img.shields.io/badge/-Stylus-%23333333?style=flat-square&logo=stylus)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
+![C](https://img.shields.io/badge/C-Lang-000000?style=flat-square&logo=c&logoColor=#d16c06)
+![C++](https://img.shields.io/badge/-C++-000000.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![RUST](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-000000.svg?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
+![GO](https://img.shields.io/badge/-GO-000000?style=flat-square&logo=GO)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=ffdd54)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)
-![Prettier](https://img.shields.io/badge/-Prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitLab](https://img.shields.io/badge/-GitLab-000000?style=flat-square&logo=gitlab)
+![VS Code](https://img.shields.io/badge/-VSCode-000000?style=flat-square&logo=vs-code)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
+![NeoVim](https://img.shields.io/badge/-NeoVim-000000?style=flat-square&logo=neovim&logoColor=ffffff)
+![DOCKER](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker)
+![AWS](https://img.shields.io/badge/aws-000000.svg?style=flat-square&logo=amazon-web-services&logoColor=white)
+
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
