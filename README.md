@@ -35,13 +35,6 @@ I'm a passionate and results-driven computer science graduate with a focus on fu
 
 <h3>Backend Development:</h3> Using Node.js and Express.js, I build efficient and scalable server-side applications, ensuring optimal performance and reliability.
 
-
-<h1 align="center"> :writing_hand: 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻</h2>
-
-<h3>Rust</h3>
-<h3>GO Lang</h3>
-<h3>Next JS</h3>
-
 <br/>
 
 <h1 align="center"> 📊 Github Stats </h1> 
