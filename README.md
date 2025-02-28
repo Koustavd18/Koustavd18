@@ -58,7 +58,6 @@ I'm a passionate and results-driven computer science graduate with a focus on fu
 
 ![C](https://img.shields.io/badge/C-Lang-000000?style=flat-square&logo=c&logoColor=#d16c06)
 ![C++](https://img.shields.io/badge/-C++-000000.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![RUST](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-000000.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
 ![GO](https://img.shields.io/badge/-GO-000000?style=flat-square&logo=GO)
