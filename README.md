@@ -40,9 +40,9 @@ I'm a passionate and results-driven computer science graduate with a focus on fu
 <h1 align="center"> 📊 Github Stats </h1> 
 
 <div align="center" >
-<img width="45%" height="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Koustavd18&theme=tokyonight&background=DD272700"/>
 
-<img width="45%" height="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Koustavd18&theme=dark"/>
+
+<img width="100%" height="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Koustavd18&theme=dark"/>
 
 </div>
 
