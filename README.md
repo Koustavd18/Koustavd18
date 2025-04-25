@@ -42,7 +42,7 @@ I'm a passionate and results-driven computer science graduate with a focus on fu
 <div align="center" >
 
 
-<img width="100%" height="25%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Koustavd18&theme=dark"/>
+<img width="50%" height="25%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Koustavd18&theme=dark"/>
 
 </div>
 
