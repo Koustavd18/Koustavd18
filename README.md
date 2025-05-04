@@ -33,7 +33,7 @@ I'm a passionate and results-driven computer science graduate with a focus on fu
 <h2>🚀 Expertise</h2>
 <h3>Frontend Development:</h3> Leveraging the power of React.js, I design and implement dynamic user interfaces that provide a seamless and engaging user experience.
 
-<h3>Backend Development:</h3> Using Node.js and Express.js, I build efficient and scalable server-side applications, ensuring optimal performance and reliability.
+<h3>Backend Development:</h3> Using Node.js and Express.js & GO  I build efficient and scalable server-side applications, ensuring optimal performance and reliability.
 
 <br/>
 
