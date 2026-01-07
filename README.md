@@ -27,13 +27,25 @@ You can click the Preview link to take a look at your changes.
 </a>
 </div>
 
-<h2>🧑🏻‍💻 About Me</h2>
-I'm a passionate and results-driven computer science graduate with a focus on full-stack development, specializing in the MERN (MongoDB, Express.js, React, Node.js) stack. My journey in the world of technology has equipped me with the skills and knowledge needed to create robust and scalable web applications.
-</br>
-<h2>🚀 Expertise</h2>
-<h3>Frontend Development:</h3> Leveraging the power of React.js, I design and implement dynamic user interfaces that provide a seamless and engaging user experience.
+### 🚀 Frontend Expertise
 
+* **Core Technologies:** JavaScript (ES6+), TypeScript, HTML5, CSS3/SASS.
+* **Library/Framework:** React.js, Next.js (SSR & SSG).
+* **State Management:** Redux Toolkit, Context API, TanStack Query (React Query).
+* **UI & Styling:** Tailwind CSS, Framer Motion (Animations), Material UI, Styled Components.
+* **Architecture:** Component-driven development, Responsive Web Design (RWD), Performance Optimization.
 
+---
+
+### 🛠️ Technical Arsenal
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+
+> **Note:** Although I specialize in the Frontend, I am proficient in **Node.js, Express, and MongoDB**, ensuring I can handle API integrations and database schemas with ease.
 <br/>
 
 <h1 align="center"> 📊 Github Stats </h1> 
