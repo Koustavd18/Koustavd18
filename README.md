@@ -78,14 +78,14 @@
 <div align="center">
   <!-- Main Contributions Widget -->
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Koustavd18&theme=darcula" alt="Koustav's GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Koustavd18&theme=react-dark" alt="Koustav's GitHub Stats" height="200px"/>
 </div>
   
   <br/><br/>
 
   <!-- Top Languages & GitHub Streak -->
   <a href="https://github.com/Koustavd18">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koustavd18&layout=compact&title_color=007ACC&text_color=C9D1D9&bg_color=0D1117&hide_border=true" alt="Top Languages" height="195px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koustavd18&layout=compact&title_color=007ACC&text_color=C9D1D9&bg_color=0D1117&hide_border=true" alt="Top Languages" height="250px"/>
   </a>
   <a href="https://github.com/Koustavd18">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Koustavd18&theme=transparent&hide_border=true&card_width=350" alt="GitHub Streak" /></a>
