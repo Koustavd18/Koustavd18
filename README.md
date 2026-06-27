@@ -36,7 +36,7 @@
 #### ⚙️ Systems & Infrastructure
 * **Languages & Runtimes:** Golang, Node.js, Express.
 * **Architecture & APIs:** RESTful API design, WebSockets, High-Performance Concurrency.
-* **Data, Messaging & DevOps:** MongoDB, Redis, Apache Kafka, Docker, Kubernetes.
+* **Data, Messaging & DevOps:** Postgres, MongoDB, Redis, Apache Kafka, Docker, Kubernetes.
 
 
 
