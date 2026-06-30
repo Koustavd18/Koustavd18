@@ -109,5 +109,5 @@ While my primary focus is building robust APIs and server infrastructure, I have
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=f7768e,bb9af3,7aa2f7&height=80&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer" width="100%" />
 </p>
