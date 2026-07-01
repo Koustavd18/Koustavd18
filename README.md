@@ -95,7 +95,7 @@ While my primary focus is building robust APIs and server infrastructure, I have
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/Koustavd18">
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koustavd18&layout=compact&title_color=007ACC&text_color=C9D1D9&bg_color=0D1117&hide_border=true" alt="Top Languages" height="250px"/>
+       <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Koustavd18&layout=donut&title_color=007ACC&text_color=C9D1D9&bg_color=0D1117&hide_border=true" alt="Top Languages" height="250px"/>
       </a>
     </td>
     <td align="center" width="50%">
