@@ -42,12 +42,10 @@ whoami:
     - Concurrency in Go
     - Apache Kafka partitions
     - Redis caching strategies
-    - Why Neovim is my preferred editor
+    - Why Zed is my preferred editor
 ```
 
 ---
-
-### 🛠️ Technical Arsenal
 
 <table align="center" width="100%">
   <tr>
@@ -74,35 +72,33 @@ whoami:
 
 <p align="center">
   <strong>🔧 Tools & Environments:</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=neovim,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=github,linux,apple,vscode,idea" />
 </p>
 
 ---
-
-### 📌 Featured Repositories
 
 <table align="center" width="100%">
   <tr>
     <td width="50%">
       <a href="https://github.com/Koustavd18/Koustavd18">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Koustavd18&repo=Koustavd18&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Koustavd18&repo=Koustavd18&theme=tokyonight&hide_border=true&bg_color=0d1117" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/Koustavd18/GO">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Koustavd18&repo=GO&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Koustavd18&repo=GO&theme=tokyonight&hide_border=true&bg_color=0d1117" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="https://github.com/Koustavd18/GO_SORT_DSA">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Koustavd18&repo=GO_SORT_DSA&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Koustavd18&repo=GO_SORT_DSA&theme=tokyonight&hide_border=true&bg_color=0d1117" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/Koustavd18/DSA_C-C-">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Koustavd18&repo=DSA_C-C-&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Koustavd18&repo=DSA_C-C-&theme=tokyonight&hide_border=true&bg_color=0d1117" />
       </a>
     </td>
   </tr>
@@ -110,10 +106,9 @@ whoami:
 
 ---
 
-### 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Koustavd18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Koustavd18&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=5" alt="Top Languages"  width="40%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Koustavd18&theme=tokyonight&hide_border=true&background=0D1117" width="49%" alt="GitHub Streak" />
 </p>
 
@@ -121,13 +116,10 @@ whoami:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Koustavd18&theme=tokyo-night&bg_color=0d1117&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koustavd18&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" width="45%" />
-</p>
 
 ---
 
-### 🏆 GitHub Achievements
+
 
 <p align="center">
   <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80" alt="Pull Shark x3" title="Pull Shark x3" />
@@ -137,13 +129,12 @@ whoami:
 
 ---
 
-### 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Koustavd18/Koustavd18/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
 </p>
 
-> 💡 To enable this, add a GitHub Action from [`platane/snk`](https://github.com/Platane/snk) to your `Koustavd18/Koustavd18` repo — it auto-generates the snake animation above from your contribution graph.
+
 
 ---
 
@@ -151,7 +142,7 @@ whoami:
 
 ### 📫 Let's Connect
 
-I'm always happy to talk backend architecture, distributed systems, or a good Neovim config. Reach out anytime!
+I'm always happy to talk backend architecture, distributed systems, or a good Zed config. Reach out anytime!
 
 <a href="mailto:kdkdas8@gmail.com"><img src="https://img.shields.io/badge/-Say%20Hello-f7768e?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/koustavdas1612/"><img src="https://img.shields.io/badge/-Connect-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
