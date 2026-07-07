@@ -51,7 +51,7 @@ whoami:
   <tr>
     <td width="50%" valign="top" align="center">
       <h4>💻 Systems & Backends</h4>
-      <img src="https://skillicons.dev/icons?i=go,ts,nodejs,cpp,c" />
+      <img src="https://skillicons.dev/icons?i=go,java,spring,cpp,c" />
     </td>
     <td width="50%" valign="top" align="center">
       <h4>🗄️ Databases & Streaming</h4>
