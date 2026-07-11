@@ -11,9 +11,6 @@
 <a href="mailto:kdkdas8@gmail.com"><img src="https://img.shields.io/badge/Email-kdkdas8@gmail.com-f7768e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/Koustavd18/" target="_blank"><img src="https://img.shields.io/badge/GitHub-Koustavd18-bb9af3?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/koustavdas1612/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Koustav--Das-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://twitter.com/koustav016" target="_blank"><img src="https://img.shields.io/badge/Twitter-@koustav016-2ac3de?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-
-<br/>
 
 <img src="https://komarev.com/ghpvc/?username=Koustavd18&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/Koustavd18?style=for-the-badge&color=bb9af3&labelColor=1a1b26" alt="Followers" />
