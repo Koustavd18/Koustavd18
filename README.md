@@ -19,11 +19,6 @@
 
 ---
 
-### ⚡ About Me
-
-I'm a **Backend & Systems Engineer** based in Bangalore, India, passionate about designing highly scalable, resilient, and performant server-side architectures. I enjoy solving complex concurrency problems, optimizing database queries, and building event-driven distributed systems.
-
-While backend and infrastructure are my main focus, I have solid frontend experience and can bridge the gap to ship complete full-stack solutions when needed.
 
 ```yaml
 whoami:
